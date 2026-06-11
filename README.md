@@ -131,4 +131,4 @@ Never commit real `.env` files. Use `.env.example` as a template. Both `backend/
 
 ## Author
 
-Yash Vijay Gaikwad
+Yash Gaikwad
